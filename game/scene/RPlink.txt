@@ -1,3 +1,4 @@
+bgm:BGM1.mp3 -volume=100;
 changeBg:未名湖.png;
 changeFigure:北大立绘.png -left -id=1;
 北大:最深沉的力量源于内心。|人大，你的理解和共鸣是我更珍视的。;

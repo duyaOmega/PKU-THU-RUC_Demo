@@ -1,3 +1,4 @@
+bgm:BGM1.mp3 -volume=100;
 changeBg:未名湖.png;
 :未名湖还是这么安静。|九月的风拂过石舫旁的水面，三三两两的鸭子在水上荡出涟漪。;
 changeFigure:北大立绘.png -left -id=1;
@@ -18,4 +19,5 @@ changeFigure:人大立绘.png -right -id=3;
 人大:我的诠释是为了更深的理解。;
 changeFigure:none -right -id=3;
 北大:那就让我看看，你们的“建设”和“理解”，究竟能带来什么吧。|不过，最终的选择权，始终在我手中。;
+changeFigure: -left -next -id=1;
 choose:接受清华的邀请，去看看他的模型。:THU.txt|接受人大的邀请，去国学院听讲座。:RUC.txt|谁都不跟，转身离开。:sol.txt;

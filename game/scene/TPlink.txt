@@ -1,3 +1,4 @@
+bgm:BGM1.mp3 -volume=100;
 changeBg:未名湖.png;
 changeFigure:北大立绘.png -left -id=1;
 北大:未来需要更坚实的力量。|清华，我愿意和你一起验证你的公式和模型。;
