@@ -1,0 +1,12 @@
+changeBg:未名湖.png;
+changeFigure:北大立绘.png -left -id=1;
+北大:最深沉的力量源于内心。|人大，你的理解和共鸣是我更珍视的。;
+清华，对不起，你的模型很厉害，但...;
+changeFigure:清华立绘.png -right -id=2;
+清华:好吧...看来存在无法量化的变量。|祝福你们。;
+我去找浙大了（哭哭）;
+changeFigure: -right -id=2;
+changeFigure:人大立绘.png -right -id=3;
+人大:让我们一起阐释这个世界！|我们才是文科真正的代表~;
+intro:END 2：青青子衿|人大并入北大法学、马院等院系，自此北大成为了文科最好的大学。|文科考生们再也不用纠结报哪所学校了。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

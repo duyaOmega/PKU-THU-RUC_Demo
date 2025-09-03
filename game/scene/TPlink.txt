@@ -1,0 +1,12 @@
+changeBg:未名湖.png;
+changeFigure:北大立绘.png -left -id=1;
+北大:未来需要更坚实的力量。|清华，我愿意和你一起验证你的公式和模型。;
+人大，对不起，你的诗篇很美，但...;
+changeFigure:人大立绘.png -right -id=3;
+人大:好吧...这样的结局或许对你更好。|祝你找到想要的最优解。;
+我去找中国政法了（哭哭）;
+changeFigure:none -right -id=3;
+changeFigure:清华立绘.png -right -id=2;
+清华:我们的未来无限可期！|我们才是真正的TOP 2~;
+intro:END 1：真正的TOP 2|清华和北大合并，成为了唯一的最高学府。|考生们再也不用纠结报哪所学校了。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

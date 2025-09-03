@@ -1,0 +1,5 @@
+Game_name:北大清华与人大的三角恋;
+Game_key:147a9d0491ca4cc;
+Title_img:北大.png;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;

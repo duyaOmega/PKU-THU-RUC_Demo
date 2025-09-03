@@ -1,0 +1,6 @@
+changeBg:未名湖.png;
+changeFigure:北大立绘.png -id=1;
+北大:未名湖之所以为未名，就在于它的包容与独立。|我不需要被定义，无论是科学还是人文。我自有我的道路。;
+我，才是真正的最高学府！;
+intro:END 3：遗世独立|在百余年的发展中，北大成为了真正的最高学府。|从现在起，无论文理工医，考生们都把北大当作了最终目标。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;
