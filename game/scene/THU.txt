@@ -12,4 +12,4 @@ changeFigure:北大立绘.png -left -id=1;
 changeFigure:none -left -next -id=1;
 changeFigure:none -right -next -id=2;
 setTextbox:hide;
-choose:接受人大的邀请，去国学院听讲座。:RUC.txt|继续:end.txt;
+choose:接受人大的邀请，去国学院听讲座。:RUC.txt|不管人大，继续后面的剧情。:end.txt;

@@ -1,7 +1,28 @@
 bgm:BGM1.mp3 -volume=100;
 changeBg:未名湖.png;
-changeFigure:北大立绘.png -next -id=1;
+
 北大:未名湖之所以为未名，就在于它的包容与独立。|我不需要被定义，无论是科学还是人文。我自有我的道路。;
 我，才是真正的最高学府！;
-intro:END 3：遗世独立|在百余年的发展中，北大成为了真正的最高学府。|无论文理工医，考生们都把北大当作了最终目标。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+北大:（忽然露出狡黠的笑容）说起来，你们不觉得彼此才是最合适的吗？
+changeFigure:none -id=1;
+changeFigure:清华立绘.png -left -next -id=2;
+changeFigure:人大立绘.png -right -id=3;
+
+清华和人大:（同时愣住，异口同声）什么？;
+changeFigure:none -id=2;
+changeFigure:none -id=3;
+changeFigure:北大立绘.png -next -id=1;
+北大:（轻笑）一个执着于最优解，一个追求最深的理解；一个用数据说话，一个用典籍表达...;
+我倒觉得，你们才是天造地设的一对呢。;
+changeFigure:none -id=1;
+changeFigure:清华立绘.png -left -next -id=2;
+
+清华:（推了推眼镜，突然开始认真思考）从互补性角度来看，人大的文科优势确实能弥补我的短板...
+changeFigure:人大立绘.png -right -id=3;
+人大:（微微脸红）清华兄的理性思维，也确实能为我的人文研究提供新的视角...
+清华:（突然握住人大的手）经过计算，我们在一起的匹配度高达99.9%。
+人大:（反握住清华的手）那剩下的0.1%，就留给未来的无限可能吧。
+setTextbox:hide;
+
+intro:END 3：遗世独立|北大作为真正的最高学府，无论文理工医，考生们都把北大当作最终目标。|而清华与人大合并后，也成为了文理双全的综合性大学，对北大发起了全新的挑战。|这...这对吗（ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 end;

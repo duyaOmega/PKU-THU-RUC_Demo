@@ -11,4 +11,4 @@ changeFigure:北大立绘.png -left -id=1;
 changeFigure:none -left -next -id=1;
 changeFigure:none -right -next -id=3
 setTextbox:hide;
-choose:接受清华的邀请，去看看他的模型。:THU.txt|不管清华，直接进入结局。:end.txt;
+choose:接受清华的邀请，去看看他的模型。:THU.txt|不管清华，继续后面的剧情。:end.txt;
