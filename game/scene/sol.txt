@@ -1,8 +1,8 @@
 bgm:BGM1.mp3 -volume=100;
 changeBg:未名湖.png;
-
+setTextbox:on;
+changeFigure:北大立绘.png -next -id=1;
 北大:未名湖之所以为未名，就在于它的包容与独立。|我不需要被定义，无论是科学还是人文。我自有我的道路。;
-我，才是真正的最高学府！;
 北大:（忽然露出狡黠的笑容）说起来，你们不觉得彼此才是最合适的吗？
 changeFigure:none -id=1;
 changeFigure:清华立绘.png -left -next -id=2;
