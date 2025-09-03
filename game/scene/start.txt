@@ -20,4 +20,5 @@ changeFigure:人大立绘.png -right -id=3;
 changeFigure:none -right -id=3;
 北大:那就让我看看，你们的“建设”和“理解”，究竟能带来什么吧。|不过，最终的选择权，始终在我手中。;
 changeFigure: -left -next -id=1;
+setTextbox:hide;
 choose:接受清华的邀请，去看看他的模型。:THU.txt|接受人大的邀请，去国学院听讲座。:RUC.txt|谁都不跟，转身离开。:sol.txt;

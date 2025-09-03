@@ -1,5 +1,38 @@
+setTextbox:on;
 bgm:BGM1.mp3 -volume=100;
+changeBg:北大图书馆.jpg;
+:北大图书馆;
+changeFigure:清华立绘.png -id=2;
+清华:（快速敲击键盘）这个文献检索算法我优化过了，能在0.37秒内定位到你需要的书籍位置。要试试吗？;
+changeFigure:none -id=2;
+changeFigure:人大立绘.png -id=3;
+人大:（轻轻推过一本古籍）这个章节的注释版本或许能帮你更好地理解。若是有什么困惑，我很乐意一起探讨。;
+changeFigure:none -id=3;
+setTextbox:hide;
+
+changeBg:北大运动场.jpg;
+:北大运动场
+setTextbox:on;
+changeFigure:清华立绘.png -id=2;
+清华:（调整智能手环）根据你的步频和心率数据，我建议将配速控制在每公里5分20秒。要一起训练吗？;
+changeFigure:none -id=2;
+changeFigure:人大立绘.png -id=3;
+人大:（递过毛巾）运动的团队项目最重要的是默契与理解。和我一起组队吗？ ;
+setTextbox:hide;
+changeFigure:none -id=3;
+
+changeBg:北大宿舍.jpg;
+:北大宿舍
+setTextbox:on;
+changeFigure:北大立绘.png -id=1;
+北大:（读短信）清华："刚刚构建了一个思念概率模型，数据显示我想你的概率是100%。|晚安，北大。";
+北大:（读短信）人大："读到'云想衣裳花想容'，忽然明白了春风为何偏爱未名湖畔。|晚安，北大。";
+setTextbox:hide;
+changeFigure:none -id=1;
+
 changeBg:未名湖.png;
+:未名湖;
+setTextbox:on;
 changeFigure:清华立绘.png -left -id=2;
 清华:北大，数据和分析告诉我们是最佳组合。我的心意，如同最根本的数学公式一样确定。;
 changeFigure:人大立绘.png -right -id=3;
@@ -8,3 +41,5 @@ changeFigure:人大立绘.png -right -id=3;
 changeFigure:none -left -next -id=2;
 changeFigure:none -right -next -id=3;
 choose:我选择隔壁理性、务实的清华。:TPlink.txt|我选择远处感性、浪漫的人大。:RPlink.txt|和你们在一起，我从来都没有开心过！:sol.txt;
+setTextbox:hide;
+setTextbox:hide;

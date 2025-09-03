@@ -1,7 +1,8 @@
+setTextbox:on;
 bgm:BGM1.mp3 -volume=100;
 changeBg:清华实验室.png;
 changeFigure:清华立绘.png -right -id=2;
-清华:（兴奋地展示）看这里，通过流体动力学模拟…还有这个传感器网络，以及最新的机器人，就可以实时监测和修复水质！;
+清华:（兴奋地展示）看这里，通过流体动力学模拟…还有这个传感器网络，以及最新的机器人，就可以实时监测ph值、溶解氧，甚至直接修复水质！;
 只要我们联手，未名湖可以成为世界校园湖泊的典范！;
 changeFigure:北大立绘.png -left -id=1;
 北大:你总是能看到我看不到的角度。|也对啊，你本来就是这样的人。理性，精确，富有逻辑。;
@@ -10,4 +11,5 @@ changeFigure:北大立绘.png -left -id=1;
 北大:可是...未来不是简单的算法，混沌系统无法用方程诠释。;
 changeFigure:none -left -next -id=1;
 changeFigure:none -right -next -id=2;
-choose:接受人大的邀请，去国学院听讲座。:RUC.txt|不管人大，直接进入结局:end.txt;
+setTextbox:hide;
+choose:接受人大的邀请，去国学院听讲座。:RUC.txt|继续:end.txt;
